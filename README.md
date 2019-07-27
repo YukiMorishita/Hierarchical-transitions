@@ -5,8 +5,7 @@ hierarchical transitions on collection view cells
 
 * 
 
-<img src="https://github.com/YukiMorishita/Images/blob/master/Reminder/ReminderViewImage.png" width="400.0">　
-<img src="https://github.com/YukiMorishita/Images/blob/master/Reminder/AddReminderViewImage.png" width="400.0">
+<img src="https://github.com/YukiMorishita/Images/blob/master/CustomTransition/ldnwa-xptpg.gif" width="400.0">　
 
 # Dependency
 
